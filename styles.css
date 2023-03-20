@@ -7,7 +7,7 @@
 
 	
 }
-.item1{
+.green{
 	background-color:green;
 	width:100px;
 	height:100px;
@@ -15,14 +15,14 @@
 	border-radius:50px;
 	
 }
-.item2{
+.yellow{
 	background-color:yellow;
 	width:100px;
 	height:100px;
 	margin-right:50px;
 	border-radius:50px;
 }
-.item3{
+.red{
 	background-color:red;
 	width:100px;
 	height:100px;
